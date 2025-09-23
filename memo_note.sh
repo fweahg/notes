@@ -9,6 +9,8 @@ echo -n input:
 read -r line
 echo -e " file : ${f} "
 cat << EOF > $f
+arithmetic eval with \$(())
+3*2=$((3*2))
 `ls -l {$0,$1}`
 $line
 EOF
