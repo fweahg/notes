@@ -1,0 +1,3 @@
+external : "external"
+storage : "storage"
+what do you don't understand in external...
