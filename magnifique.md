@@ -3,3 +3,4 @@ on connait tous ce jeux où il faut répondre aux questions en retard tout en me
 elles sont en place les questions.
 sinon j'ai pas bien compris la posologie le Nitrofuradentine, l'activation biliaires, tout ca, tout ca. 
 Les arbres la photosynthèse peut-être. p*tain c'est la guerre.
+est-ce qu'on peut virer les pubs de la bande des Garmins, il n'y pas d'affichage prévu de toute façon.
