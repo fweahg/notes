@@ -8,3 +8,4 @@ est-ce qu'on peut virer les pubs de la bande des Garmins, il n'y pas d'affichage
 /* spoiler chevl de troi pour matrix sur c8 en décembre */
 mais tout le monde connaît la posidonie voyons, civilisation.
 /* voila... "l'ia" vu par nos jeunes futurs génies spoiler */
+j'ai du loupé quelque chose nulle mention de dauphins d'eau douce et des lacs salé en altitude.
